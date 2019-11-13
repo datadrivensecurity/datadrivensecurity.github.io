@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Project Description
 
-You can use the [editor on GitHub](https://github.com/datadrivensecurity/datadrivensecurity.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Businesses are constantly under security threats, which not only costs billions of dollars in damage and recovery, but also detrimentally affects their reputation. A botnet-assisted attack is a widely known threat to these organizations. According to U.S. Federal Bureau of Investigation, “Botnets caused over $9 billion in losses to U.S. victims and over $110 billion globally. Approximately 500 million computers are infected each year, translating into 18 victims per second.” The most infamous attack, Rustock, infected 1 million machines, sending up to 30 billion spam emails a day. More recently, Mirai knocked offline 900,000 users of Deutsche Telekom. Thus, it is imperative to defend against botnet-assisted attacks. A botnet is a collection of bots, agents in compromised hosts, controlled by botmasters via command and control (C2) channels. A botmaster could be distributed across several agents that reside within or outside the network. Hence, a botnet can be used for tasks ranging from distributed denial-of-service (DDoS), to massive-scale spamming, to fraud and identify theft. Numerous measures are employed to fend off these threats and protect the network and its data from botnets. This project aims to devise an adaptive and robust botnet detection and mitigation system that leverages machine learning (ML). On the detection front, novel anomaly-based intrusion detection, employing host- and networkbased detection methods along with ML models adaptive to network dynamics and adversarial activities will be devised to build an advanced detection system that bots cannot easily evade. On the mitigation front, software-defined networking (SDN) will be leveraged to dynamically adapt the monitoring of the network, instigate root cause analysis, and automatically generate and enforce mitigation workflows. This project will broaden the scope of botnet detection and mitigation, including protection against zero-day threats. Advances made in collaboration with the industry partner, will have a lasting impact on the design principles and practices of cybersecurity for  businesses and financial institutions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Related Publications
+- H. Bian, T. Bai, M.A. Salahuddin, N. Limam, A. Abou Daya, and R. Boutaba. Host in Danger? Detecting Network Intrusions from Authentication Logs IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Halifax, Canada, October 21-25, 2019.
+- T. Bai, H. Bian, A. Abou Daya, M.A. Salahuddin, N. Limam and R. Boutaba. IEEE Conference on Local Computer Networks (LCN), Osnabrück, Germany, October 14-17, 2019. 
+- A. Abou Daya, M.A. Salahuddin, N. Limam, R. Boutaba. A Graph-Based Machine Learning Approach for Bot Detection. IFIP/IEEE Integrated Network Management Symposium (IM). Washington DC, USA. April 8-12, 2019 ([Paper](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2019/AbouDayaIM19.pdf)).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datadrivensecurity/datadrivensecurity.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sponsors and Partners
+<img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/rbc_logo.png" alt="RBC" width="30%"/>

@@ -8,4 +8,4 @@ Businesses are constantly under security threats, which not only costs billions 
 - A. Abou Daya, M.A. Salahuddin, N. Limam, R. Boutaba. A Graph-Based Machine Learning Approach for Bot Detection. IFIP/IEEE Integrated Network Management Symposium (IM). Washington DC, USA. April 8-12, 2019 ([Paper](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2019/AbouDayaIM19.pdf)).
 
 ## Sponsors and Partners
-<img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/rbc_logo.png" alt="RBC" width="30%"/>
+<img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/rbc_logo.png" alt="RBC" width="10%"/>

@@ -5,7 +5,7 @@ Businesses are constantly under security threats, which not only costs billions 
 ## Related Publications
 - I. Akbari, E. Tahoun, M.A. Salahuddin, N. Limam, and R. Boutaba. ATMoS: Autonomous Threat Mitigation in SDN using Reinforcement Learning. IEEE/IFIP Network Operations and Management Symposium (NOMS). Budapest, Hungary, April 20-24, 2020.
 - H. Bian, T. Bai, M.A. Salahuddin, N. Limam, A. Abou Daya, and R. Boutaba. Host in Danger? Detecting Network Intrusions from Authentication Logs IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Halifax, Canada, October 21-25, 2019.
-- T. Bai, H. Bian, A. Abou Daya, M.A. Salahuddin, N. Limam and R. Boutaba. IEEE Conference on Local Computer Networks (LCN), Osnabrück, Germany, October 14-17, 2019. 
+- T. Bai, H. Bian, A. Abou Daya, M.A. Salahuddin, N. Limam and R. Boutaba. A Machine Learning Approach for RDP-based Lateral Movement Detection. IEEE Conference on Local Computer Networks (LCN), Osnabrück, Germany, October 14-17, 2019. 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2019/AbouDayaIM19.pdf) A. Abou Daya, M.A. Salahuddin, N. Limam, R. Boutaba. A Graph-Based Machine Learning Approach for Bot Detection. IFIP/IEEE Integrated Network Management Symposium (IM). Washington DC, USA. April 8-12, 2019.
 
 ## Sponsors and Partners
